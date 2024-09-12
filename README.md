@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nilesh Sharma
 
-<!--
-**Nxtnilesh/nxtnilesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I’m a passionate **MERN Stack Developer** with experience in building and maintaining full-stack web applications using modern technologies like **MongoDB, Express.js, React.js, and Node.js**. I enjoy solving problems, optimizing code, and building scalable applications with a focus on user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Frontend:** React.js, Redux, JavaScript, HTML5, CSS3, Bootstrap, TailwindCSS
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+- **Database:** MongoDB, Mongoose, MySQL
+- **Tools:** Git, GitHub, VS Code, Postman, Docker, Heroku
+- **Other:** Aggregation Pipelines, Session Management
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Featured Projects
+
+1. **Lost and Found Campus App**  
+   A MERN-based platform for reporting and retrieving lost items on campus.  
+   *Tech Stack: React, Node.js, Express, MongoDB*  
+   [🔗 View Repository](https://github.com/lost-and-found)
+
+---
+
+### 🌱 What I’m Currently Learning
+- **TypeScript** – To enhance the scalability and maintainability of React and Node.js applications.
+- **GraphQL** – For efficient data querying and API development.
+
+---
+
+### 🌐 Connect with Me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nxtnilesh)
+- Email: [nxtnilesh@gmail.com](mailto:nxtnilesh@gmail.com)
