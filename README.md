@@ -15,11 +15,6 @@ I’m a passionate **MERN Stack Developer** with experience in building and main
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
-
 ### 🚀 Featured Projects
 
 1. **Lost and Found Campus App**  
@@ -36,5 +31,5 @@ I’m a passionate **MERN Stack Developer** with experience in building and main
 ---
 
 ### 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nxtnilesh)
+- LinkedIn: [linkedin.com/in/nxtnilesh](https://www.linkedin.com/in/nxtnilesh)
 - Email: [nxtnilesh@gmail.com](mailto:nxtnilesh@gmail.com)
