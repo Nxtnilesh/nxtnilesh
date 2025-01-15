@@ -26,7 +26,6 @@ I’m a passionate **MERN Stack Developer** with experience in building and main
 
 ### 🌱 What I’m Currently Learning
 - **TypeScript** – To enhance the scalability and maintainability of React and Node.js applications.
-- **GraphQL** – For efficient data querying and API development.
 
 ---
 
