@@ -1,34 +1,79 @@
-# Hi there! 👋 I'm Nilesh Sharma
+# Hi, I'm NILESH 👋  
 
-### MERN Stack Developer | Full-Stack Web Developer
-
-I’m a passionate **MERN Stack Developer** with experience in building and maintaining full-stack web applications using modern technologies like **MongoDB, Express.js, React.js, and Node.js**. I enjoy solving problems, optimizing code, and building scalable applications with a focus on user experience.
+Welcome to my GitHub! I am a **MERN Stack Developer** dedicated to building **scalable, secure, and high-performance web applications**. I am continuously learning modern tools and technologies to deliver industry-standard solutions.  
 
 ---
 
-### 🛠 Tech Stack
-- **Frontend:** React.js, Redux, JavaScript, HTML5, CSS3, Bootstrap, TailwindCSS
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-- **Database:** MongoDB, Mongoose, MySQL
-- **Tools:** Git, GitHub, VS Code, Postman, Docker, Heroku
-- **Other:** Aggregation Pipelines, Session Management
+## 💻 About Me  
+
+- 🚀 I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+- 📖 Currently expanding my knowledge in **Next.js**, **Redis**, and **advanced backend systems**.  
+- 🎯 Passionate about building web applications that are optimized, secure, and user-centric.  
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Technologies & Tools  
 
-1. **Lost and Found Campus App**  
-   A MERN-based platform for reporting and retrieving lost items on campus.  
-   *Tech Stack: React, Node.js, Express, MongoDB*  
-   [🔗 View Repository](https://github.com/lost-and-found)
+### Core Skills  
+- **Frontend:** React.js, Next.js, Shadcn/UI  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL, PostgreSQL, Prisma  
+- **Caching & Queuing:** Redis, Memcached, RabbitMQ, Kafka  
+
+### Industry Tools  
+- **Styling:** Tailwind CSS, Shadcn/UI  
+- **State Management:** Redux, Zustand, Context API  
+- **Version Control & CI/CD:** Git, GitHub Actions, Docker, Jenkins  
+- **Testing & Optimization:** Jest, Cypress, Lighthouse  
+- **Performance Monitoring:** Elasticsearch, Prometheus, Sentry  
 
 ---
 
-### 🌱 What I’m Currently Learning
-- **TypeScript** – To enhance the scalability and maintainability of React and Node.js applications.
+## 🌱 Learning & Growth  
+
+I am committed to lifelong learning to stay at the forefront of web development.  
+- 📘 Currently exploring:  
+  - **Next.js** for server-side rendering (SSR) and static site generation (SSG).  
+  - **Redis, Kafka, and RabbitMQ** for caching and asynchronous processing.  
+  - **Elasticsearch** for advanced search functionality and analytics.  
+  - **WebSocket** for real-time communication.  
+  - **Secure Authentication Systems** using OTP and token-based authentication.  
+  - **Serverless Architecture** with AWS Lambda, Vercel, and Netlify.  
 
 ---
 
-### 🌐 Connect with Me
-- LinkedIn: [linkedin.com/in/nxtnilesh](https://www.linkedin.com/in/nxtnilesh)
-- Email: [nxtnilesh@gmail.com](mailto:nxtnilesh@gmail.com)
+## 🏗️ Future Projects  
+
+I plan to implement advanced technologies and industry-standard practices in upcoming projects:  
+1. **Advanced Caching Mechanisms:**  
+   - Utilizing **Redis** and **Memcached** to optimize response times and enhance scalability.  
+2. **Search Functionality with Elasticsearch:**  
+   - Building a real-time search system for large datasets with advanced filtering and analytics.  
+3. **Asynchronous Queues and Background Jobs:**  
+   - Implementing **RabbitMQ** and **Kafka** for task queues, email notifications, and background jobs.  
+4. **Real-Time Applications:**  
+   - Developing apps with **WebSocket** for live updates, like chat systems and live notifications.  
+5. **Secure User Authentication:**  
+   - Implementing **OTP authentication**, multi-factor authentication, and token-based systems.  
+6. **Enterprise-Grade Applications:**  
+   - Building scalable, robust, and secure solutions that align with industry standards.  
+7. **Serverless and Microservices Architecture:**  
+   - Deploying scalable and efficient serverless APIs and microservices.  
+
+---
+
+## 🏆 Achievements  
+
+- 🎖️ Winners in the Sustainable Cities & Climate Actions category at **HackUtsav 1.0**.  
+- 🛠️ Designed and implemented a prototype citizen portal to report and resolve local issues.  
+
+---
+
+## 📈 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+**Thank you for visiting my profile! Feel free to explore my repositories and get in touch. Let’s create something impactful together!**
