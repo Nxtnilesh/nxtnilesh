@@ -69,11 +69,4 @@ I plan to implement advanced technologies and industry-standard practices in upc
 
 ---
 
-## 📈 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
-
----
-
 **Thank you for visiting my profile! Feel free to explore my repositories and get in touch. Let’s create something impactful together!**
