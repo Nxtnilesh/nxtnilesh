@@ -18,14 +18,13 @@ Welcome to my GitHub! I am a **MERN Stack Developer** dedicated to building **sc
 - **Frontend:** React.js, Next.js, Shadcn/UI  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL, PostgreSQL, Prisma  
-- **Caching & Queuing:** Redis, Memcached, RabbitMQ, Kafka  
+- **Caching & Queuing:** Redis, RabbitMQ
 
 ### Industry Tools  
 - **Styling:** Tailwind CSS, Shadcn/UI  
-- **State Management:** Redux, Zustand, Context API  
-- **Version Control & CI/CD:** Git, GitHub Actions, Docker, Jenkins  
-- **Testing & Optimization:** Jest, Cypress, Lighthouse  
-- **Performance Monitoring:** Elasticsearch, Prometheus, Sentry  
+- **State Management:** Redux,Context API  
+- **Version Control & CI/CD:** Git, GitHub Actions, Docker, 
+- **Performance Monitoring:** Elasticsearch, Prometheus 
 
 ---
 
@@ -34,7 +33,7 @@ Welcome to my GitHub! I am a **MERN Stack Developer** dedicated to building **sc
 I am committed to lifelong learning to stay at the forefront of web development.  
 - 📘 Currently exploring:  
   - **Next.js** for server-side rendering (SSR) and static site generation (SSG).  
-  - **Redis, Kafka, and RabbitMQ** for caching and asynchronous processing.  
+  - **Redis and RabbitMQ** for caching and asynchronous processing.  
   - **Elasticsearch** for advanced search functionality and analytics.  
   - **WebSocket** for real-time communication.  
   - **Secure Authentication Systems** using OTP and token-based authentication.  
