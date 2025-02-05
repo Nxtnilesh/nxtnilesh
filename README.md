@@ -1,71 +1,91 @@
 # Hi, I'm NILESH 👋  
 
-Welcome to my GitHub! I am a **MERN Stack Developer** dedicated to building **scalable, secure, and high-performance web applications**. I am continuously learning modern tools and technologies to deliver industry-standard solutions.  
+Welcome to my GitHub! I am a **MERN Stack Developer** passionate about building **scalable, secure, and high-performance web applications**. I strive to implement modern technologies and industry best practices to create optimized, user-centric solutions.  
 
 ---
 
 ## 💻 About Me  
 
-- 🚀 I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
-- 📖 Currently expanding my knowledge in **Next.js**, **Redis**, and **advanced backend systems**.  
-- 🎯 Passionate about building web applications that are optimized, secure, and user-centric.  
+- 🚀 **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js).  
+- 🎯 Passionate about **high-performance applications**, **scalability**, and **security**.  
+- 📖 Currently enhancing my expertise in **Next.js**, **Redis**, **advanced backend systems**, and **DevOps**.  
+- ⚡ Always exploring **cutting-edge technologies** to stay ahead in the ever-evolving tech landscape.  
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Skills & Technologies  
 
-### Core Skills  
-- **Frontend:** React.js, Next.js, Shadcn/UI  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, MySQL, PostgreSQL, Prisma  
-- **Caching & Queuing:** Redis, RabbitMQ
+### **Frontend Development**  
+- React.js, Next.js  
+- Tailwind CSS, Shadcn/UI  
+- Redux, Context API  
 
-### Industry Tools  
-- **Styling:** Tailwind CSS, Shadcn/UI  
-- **State Management:** Redux,Context API  
-- **Version Control & CI/CD:** Git, GitHub Actions, Docker, 
-- **Performance Monitoring:** Elasticsearch, Prometheus 
+### **Backend Development**  
+- Node.js, Express.js  
+- RESTful APIs & GraphQL  
+- WebSockets for real-time communication  
+
+### **Databases & Storage**  
+- MongoDB, MySQL, PostgreSQL, Prisma  
+- Redis (caching & session management)  
+
+### **DevOps & Cloud**  
+- Docker, Kubernetes (basics)  
+- CI/CD with GitHub Actions  
+- AWS (EC2, Lambda), Vercel, Netlify  
+
+### **Message Queues & Search**  
+- RabbitMQ for message brokering  
+- Elasticsearch for advanced search and analytics  
+
+### **Security & Authentication**  
+- OTP & token-based authentication (JWT)  
+- Role-based access control (RBAC)  
+- Data encryption & secure API development  
 
 ---
 
 ## 🌱 Learning & Growth  
 
-I am committed to lifelong learning to stay at the forefront of web development.  
-- 📘 Currently exploring:  
-  - **Next.js** for server-side rendering (SSR) and static site generation (SSG).  
-  - **Redis and RabbitMQ** for caching and asynchronous processing.  
-  - **Elasticsearch** for advanced search functionality and analytics.  
-  - **WebSocket** for real-time communication.  
-  - **Secure Authentication Systems** using OTP and token-based authentication.  
-  - **Serverless Architecture** with AWS Lambda, Vercel, and Netlify.  
+I am committed to **continuous learning** and expanding my technical expertise.  
+
+📘 **Currently exploring:**  
+- **Next.js** for SSR and SSG.  
+- **Redis and RabbitMQ** for caching and asynchronous processing.  
+- **Elasticsearch** for full-text search and analytics.  
+- **WebSockets** for real-time applications.  
+- **Advanced authentication mechanisms** (MFA, OAuth).  
+- **Serverless Architecture** with AWS Lambda, Vercel, and Netlify.  
+- **Docker & Kubernetes** for containerized deployments.  
 
 ---
 
 ## 🏗️ Future Projects  
 
-I plan to implement advanced technologies and industry-standard practices in upcoming projects:  
-1. **Advanced Caching Mechanisms:**  
-   - Utilizing **Redis** and **Memcached** to optimize response times and enhance scalability.  
-2. **Search Functionality with Elasticsearch:**  
-   - Building a real-time search system for large datasets with advanced filtering and analytics.  
-3. **Asynchronous Queues and Background Jobs:**  
-   - Implementing **RabbitMQ** and **Kafka** for task queues, email notifications, and background jobs.  
-4. **Real-Time Applications:**  
-   - Developing apps with **WebSocket** for live updates, like chat systems and live notifications.  
-5. **Secure User Authentication:**  
-   - Implementing **OTP authentication**, multi-factor authentication, and token-based systems.  
-6. **Enterprise-Grade Applications:**  
-   - Building scalable, robust, and secure solutions that align with industry standards.  
-7. **Serverless and Microservices Architecture:**  
-   - Deploying scalable and efficient serverless APIs and microservices.  
+I plan to incorporate **industry-leading practices** into my upcoming projects:  
+1. **Advanced Caching Mechanisms** – Optimizing response times with **Redis** and **Memcached**.  
+2. **Scalable Search Systems** – Implementing **Elasticsearch** for real-time search and filtering.  
+3. **Asynchronous Task Processing** – Using **RabbitMQ** and **Kafka** for background jobs.  
+4. **Real-Time Applications** – Developing **WebSocket-based** systems like chat apps and live notifications.  
+5. **Enterprise-Grade Authentication** – Implementing **OTP authentication, MFA, and RBAC**.  
+6. **Serverless & Microservices** – Building efficient, scalable APIs and distributed architectures.  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🎖️ Winners in the Sustainable Cities & Climate Actions category at **HackUtsav 1.0**.  
-- 🛠️ Designed and implemented a prototype citizen portal to report and resolve local issues.  
+- 🎖️ **HackUtsav 1.0 Winner** – Developed a citizen portal for reporting and resolving local issues.  
+- 🛠️ **Led multiple MERN stack projects**, focusing on security, scalability, and performance.  
 
 ---
 
-**Thank you for visiting my profile! Feel free to explore my repositories and get in touch. Let’s create something impactful together!**
+## 🌍 Languages  
+
+- **Programming:** JavaScript, TypeScript, Python (basic)  
+- **Databases & Query Languages:** SQL, NoSQL (MongoDB), Prisma  
+- **Scripting & DevOps:** Bash, Dockerfile  
+
+---
+
+🚀 **Let's Build Something Amazing!**  
+Feel free to explore my repositories, collaborate on projects, or connect with me. I'm always open to discussions and learning opportunities!
